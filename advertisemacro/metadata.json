@@ -1,0 +1,8 @@
+{
+  "name": "advertisemacro",
+  "description": "join discord for free vbuck",
+  "author": "Scalesy",
+  "entry": "index.js",
+  "requires":["RenderLib", "requestV2"],
+  "version":"1.0"
+}
